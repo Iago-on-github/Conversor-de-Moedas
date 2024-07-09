@@ -11,5 +11,5 @@ Projeto de um Conversor de Moedas desenvolvido em JAVA com objetivo único e exc
 + Consumo de API's
 
 <h3 align="center"> 
-❗: Projeto em finalizado ❗:
+❗: Projeto finalizado ❗:
 </h3>
